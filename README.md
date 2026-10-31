@@ -27,7 +27,7 @@ Tenho conhecimento em diversas linguagens de programação, desenvolvimento de p
 - **PHP** — Desenvolvimento backend e plugins.
 - **Java** — Desenvolvimento de aplicações e servidores.
 - **HTML** — Estruturação de interfaces web.
-- **JavaScript** — Desenvolvimento web e funcionalidades interativas.
+- **JavaScript** — Desenvolvimento web e criação de bots pro discord.
 
 ---
 
