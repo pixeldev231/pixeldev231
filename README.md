@@ -20,7 +20,7 @@ Tenho conhecimento em diversas linguagens de programação, desenvolvimento de p
 ### 💻 Linguagens de programação
 
 <p>
-  <img src="https://skillicons.dev/icons?i=lua,php,java,html,js" />
+  <img src="https://skillicons.dev/icons?i=lua,php,java,html,js,luau" />
 </p>
 
 - **Lua / Luau** — Scripting, Roblox Studio e sistemas orientados a objetos.
