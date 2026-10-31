@@ -53,6 +53,8 @@ Tenho conhecimento em diversas linguagens de programação, desenvolvimento de p
 ## 📫 Contato
 
 - GitHub: [@pixeldev231](https://github.com/pixeldev231)
+- Email: Pixeldev2331@gmail.com
+- Discord: pixel_dev231
 
 ---
 
